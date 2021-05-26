@@ -22,6 +22,7 @@ body{
     scroll-behavior: smooth;
     overflow-x: hidden;
     max-width: 1440px;
+    margin: 0 auto;
 }
 
 p{
@@ -319,7 +320,6 @@ a{
     font-weight: 700;
     margin-bottom: 1.5rem;
     color: rgb(236, 236, 236);
-    cursor: none;
 }
 
 .footer-list li{
